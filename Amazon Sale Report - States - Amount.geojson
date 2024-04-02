@@ -1,0 +1,509 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 92.5,10.7449 ]
+    },
+    "properties": {
+    "index":1,
+    "state":"ANDAMAN & NICOBAR ",
+    "state-id":"AN",
+    "amount":"INR 170,369",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 79.74,15.9129 ]
+    },
+    "properties": {
+    "index":2,
+    "state":"ANDHRA PRADESH",
+    "state-id":"AP",
+    "amount":"INR 3,449,882",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 94.7278,28.218 ]
+    },
+    "properties": {
+    "index":3,
+    "state":"ARUNACHAL PRADESH",
+    "state-id":"AR",
+    "amount":"INR 105,675",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 92.9376,26.2006 ]
+    },
+    "properties": {
+    "index":4,
+    "state":"ASSAM",
+    "state-id":"AS",
+    "amount":"INR 1,090,886",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 85.2722,25.9644 ]
+    },
+    "properties": {
+    "index":5,
+    "state":"BIHAR",
+    "state-id":"BR",
+    "amount":"INR 1,510,144",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 76.7794,30.7333 ]
+    },
+    "properties": {
+    "index":6,
+    "state":"CHANDIGARH",
+    "state-id":"CH",
+    "amount":"INR 223,991",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 81.8661,21.2787 ]
+    },
+    "properties": {
+    "index":7,
+    "state":"CHHATTISGARH",
+    "state-id":"CG",
+    "amount":"INR 600,886",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 73.0619,20.1809 ]
+    },
+    "properties": {
+    "index":8,
+    "state":"DADRA AND NAGAR",
+    "state-id":"DH",
+    "amount":"INR 50,154",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.1025,28.7041 ]
+    },
+    "properties": {
+    "index":9,
+    "state":"DELHI",
+    "state-id":"DL",
+    "amount":"INR 4,660,999",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 74.124,15.2993 ]
+    },
+    "properties": {
+    "index":10,
+    "state":"GOA",
+    "state-id":"GA",
+    "amount":"INR 674,741",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 71.5724,22.6708 ]
+    },
+    "properties": {
+    "index":11,
+    "state":"GURAJAT",
+    "state-id":"GJ",
+    "amount":"INR 2,935,107",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 76.0856,29.0588 ]
+    },
+    "properties": {
+    "index":12,
+    "state":"HARYANA",
+    "state-id":"HR",
+    "amount":"INR 3,022,603",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.5619,32.1024 ]
+    },
+    "properties": {
+    "index":13,
+    "state":"HIMACHAL PRADESH",
+    "state-id":"HP",
+    "amount":"INR 545,260",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 75.3412,33.2778 ]
+    },
+    "properties": {
+    "index":14,
+    "state":"JAMMU & KASHMIR",
+    "state-id":"JK",
+    "amount":"INR 488,998",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 85.2722,23.6913 ]
+    },
+    "properties": {
+    "index":15,
+    "state":"JHARKHAND",
+    "state-id":"JH",
+    "amount":"INR 982,008",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 75.7139,15.3173 ]
+    },
+    "properties": {
+    "index":16,
+    "state":"KARNATAKA",
+    "state-id":"KA",
+    "amount":"INR 11,044,974",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 76.6413,10.1632 ]
+    },
+    "properties": {
+    "index":17,
+    "state":"KERALA",
+    "state-id":"KL",
+    "amount":"INR 4,092,798",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.5619,34.2268 ]
+    },
+    "properties": {
+    "index":18,
+    "state":"LADAKH",
+    "state-id":"LA",
+    "amount":"INR 38,993",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 72.64,10.57 ]
+    },
+    "properties": {
+    "index":19,
+    "state":"LAKSHADWEEP",
+    "state-id":"LD",
+    "amount":"INR 3,175",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.6569,22.9734 ]
+    },
+    "properties": {
+    "index":20,
+    "state":"MADHYA PRADESH",
+    "state-id":"MP",
+    "amount":"INR 1,690,393",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 75.7139,19.7515 ]
+    },
+    "properties": {
+    "index":21,
+    "state":"MAHARASHTRA",
+    "state-id":"MH",
+    "amount":"INR 14,053,669",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 93.9063,24.6637 ]
+    },
+    "properties": {
+    "index":22,
+    "state":"MANIPUR",
+    "state-id":"MN",
+    "amount":"INR 223,057",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 91.3662,25.467 ]
+    },
+    "properties": {
+    "index":23,
+    "state":"MEGHALAYA",
+    "state-id":"ML",
+    "amount":"INR 125,922",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 92.9376,23.1645 ]
+    },
+    "properties": {
+    "index":24,
+    "state":"MIZORAM",
+    "state-id":"MZ",
+    "amount":"INR 43,764",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 94.5624,26.1584 ]
+    },
+    "properties": {
+    "index":25,
+    "state":"NAGALAND",
+    "state-id":"NL",
+    "amount":"INR 148,081",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 84.27,20.2376 ]
+    },
+    "properties": {
+    "index":26,
+    "state":"ODISHA",
+    "state-id":"OR",
+    "amount":"INR 1,471,677",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 79.8083,11.9416 ]
+    },
+    "properties": {
+    "index":27,
+    "state":"PUDUCHERRY",
+    "state-id":"PY",
+    "amount":"INR 207,093",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 75.3412,31.1471 ]
+    },
+    "properties": {
+    "index":28,
+    "state":"PUNJAB",
+    "state-id":"PB",
+    "amount":"INR 1,280,637",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 74.2179,27.0238 ]
+    },
+    "properties": {
+    "index":29,
+    "state":"RAJASTHAN",
+    "state-id":"RJ",
+    "amount":"INR 1,871,846",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 88.3239,27.3516 ]
+    },
+    "properties": {
+    "index":30,
+    "state":"SIKKIM",
+    "state-id":"SK",
+    "amount":"INR 149,904",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.6569,11.1271 ]
+    },
+    "properties": {
+    "index":31,
+    "state":"TAMIL NADU",
+    "state-id":"TN",
+    "amount":"INR 6,923,420",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 79.775,17.0944 ]
+    },
+    "properties": {
+    "index":32,
+    "state":"TELANGANA",
+    "state-id":"TG",
+    "amount":"INR 7,335,881",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 91.6761,23.5639 ]
+    },
+    "properties": {
+    "index":33,
+    "state":"TRIPURA",
+    "state-id":"TR",
+    "amount":"INR 98,598",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 80.0982,27.5706 ]
+    },
+    "properties": {
+    "index":34,
+    "state":"UTTAR PRADESH",
+    "state-id":"UP",
+    "amount":"INR 7,234,697",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.3411,31.4429 ]
+    },
+    "properties": {
+    "index":35,
+    "state":"UTTARAKHAND",
+    "state-id":"UK",
+    "amount":"INR 1,039,484",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 87.855,22.9868 ]
+    },
+    "properties": {
+    "index":36,
+    "state":"WEST BENGAL",
+    "state-id":"WB",
+    "amount":"INR 3,760,165",
+    "FIELD5":""
+    }
+  }
+]
+}
